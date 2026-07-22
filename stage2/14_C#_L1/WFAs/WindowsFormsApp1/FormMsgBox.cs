@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApp1
+{
+    public partial class FormMsgBox : Form
+    {
+        public FormMsgBox()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is a message box.");
+        }
+
+        private void FormMsgBox_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("This is a message box.", "koko as title");
+
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            if (DialogResult.OK== MessageBox.Show("Any Question ?",
+                "title Text Koko", MessageBoxButtons.OKCancel))
+            {
+                MessageBox.Show("OK button Pressed");
+            }
+        }
+
+        private void btnMsgBoxWithIconalso_Click(object sender, EventArgs e)
+        {
+
+            if (DialogResult.OK == MessageBox.Show("Any Question ?",
+                "title Text Koko", MessageBoxButtons.OKCancel, MessageBoxIcon.Question))
+            {
+                MessageBox.Show("OK button Pressed");
+            }
+        }
+    }
+}

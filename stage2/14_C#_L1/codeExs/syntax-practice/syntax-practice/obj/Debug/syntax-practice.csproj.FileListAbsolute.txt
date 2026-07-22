@@ -1,0 +1,7 @@
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\bin\Debug\syntax-practice.exe.config
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\bin\Debug\syntax-practice.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\bin\Debug\syntax-practice.pdb
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\obj\Debug\syntax-practice.csproj.AssemblyReference.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\obj\Debug\syntax-practice.csproj.CoreCompileInputs.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\obj\Debug\syntax-practice.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\codeExs\syntax-practice\syntax-practice\obj\Debug\syntax-practice.pdb

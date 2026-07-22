@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\formchkradiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:formchkradiogroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmpractice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmpractice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmpractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\windowsformsapp1\\frmtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C5AB05-6A0F-4842-9954-7F6094A2B961}|WindowsFormsApp1.csproj|solutionrelative:frmtextbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTextBox.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.cs",
+              "RelativeDocumentMoniker": "FrmTextBox.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.cs [Design]",
+              "RelativeToolTip": "FrmTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:27:10.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPictureBox.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPictureBox.cs",
+              "RelativeDocumentMoniker": "FrmPictureBox.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPictureBox.cs",
+              "RelativeToolTip": "FrmPictureBox.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:25:15.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPictureBox.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPictureBox.cs",
+              "RelativeDocumentMoniker": "FrmPictureBox.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPictureBox.cs [Design]",
+              "RelativeToolTip": "FrmPictureBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:21:46.251Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainForm.cs [Design]",
+              "RelativeToolTip": "mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:17:22.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainForm.cs",
+              "RelativeDocumentMoniker": "mainForm.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\mainForm.cs",
+              "RelativeToolTip": "mainForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA/wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T15:18:02.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormChkRadioGroup.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FormChkRadioGroup.cs",
+              "RelativeDocumentMoniker": "FormChkRadioGroup.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FormChkRadioGroup.cs [Design]",
+              "RelativeToolTip": "FormChkRadioGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:17:56.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPractice.Designer.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.Designer.cs",
+              "RelativeDocumentMoniker": "FrmPractice.Designer.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.Designer.cs",
+              "RelativeToolTip": "FrmPractice.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:04:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPractice.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.cs",
+              "RelativeDocumentMoniker": "FrmPractice.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.cs [Design]",
+              "RelativeToolTip": "FrmPractice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:03:24.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPractice.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.cs",
+              "RelativeDocumentMoniker": "FrmPractice.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmPractice.cs",
+              "RelativeToolTip": "FrmPractice.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:04:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAnwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T23:04:40.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T22:20:25.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmTextBox.Designer.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.Designer.cs",
+              "RelativeDocumentMoniker": "FrmTextBox.Designer.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.Designer.cs",
+              "RelativeToolTip": "FrmTextBox.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADwv0wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T22:26:02.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTextBox.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.cs",
+              "RelativeDocumentMoniker": "FrmTextBox.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\WindowsFormsApp1\\FrmTextBox.cs",
+              "RelativeToolTip": "FrmTextBox.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T22:21:50.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

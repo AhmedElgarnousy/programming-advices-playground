@@ -1,0 +1,128 @@
+# Backup database files
+*.bak
+
+
+# ==========================================
+# Byte-compiled / optimized / DLL files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# C extensions
+# ==========================================
+*.so
+
+# ==========================================
+# Distribution / packaging / build artifacts
+# ==========================================
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# PyInstaller
+# ==========================================
+# Compiled info folder unless explicitly needed
+*.manifest
+*.spec
+
+# ==========================================
+# Installer logs
+# ==========================================
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==========================================
+# Unit test / coverage reports
+# ==========================================
+htmlcov/
+.toast/
+.cache
+.pytest_cache/
+.coverage
+.coverage.*
+.hypothesis/
+.nox/
+.tox/
+.manhole
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# ==========================================
+# Translations
+# ==========================================
+*.mo
+*.pot
+
+# ==========================================
+# Django framework (if applicable)
+# ==========================================
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# ==========================================
+# Flask framework (if applicable)
+# ==========================================
+instance/
+.webassets-cache
+
+# ==========================================
+# Jupyter Notebooks
+# ==========================================
+.ipynb_checkpoints
+
+# ==========================================
+# Environments (Virtual Envs)
+# ==========================================
+# Core virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Poetry dependency manager
+.poetry/
+poetry.lock
+
+# Pipenv
+Pipfile.lock
+
+# conda environment file
+.conda/
+
+# ==========================================
+# IDEs and Editors
+# ==========================================
+# VS Code
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

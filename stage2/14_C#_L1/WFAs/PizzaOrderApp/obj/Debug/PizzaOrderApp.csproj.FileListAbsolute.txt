@@ -1,0 +1,10 @@
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe.config
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\bin\Debug\PizzaOrderApp.pdb
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.AssemblyReference.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.Form1.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.Properties.Resources.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.GenerateResource.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.CoreCompileInputs.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\PizzaOrderApp\obj\Debug\PizzaOrderApp.pdb

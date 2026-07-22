@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|e:\\general_courses\\programming-advices\\stage2\\14_c#_l1\\wfas\\pizzaorderapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C6C3EC-C39F-4701-A895-E8B84C9DA08E}|PizzaOrderApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:18:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:18:42.822Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "E:\\general_courses\\programming-advices\\stage2\\14_C#_L1\\WFAs\\PizzaOrderApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAADwv9ABAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T21:18:26.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<mesh name="sphere">
+    <tools>
+        <Tool Filename="builder.exe" AllowRemote="true" Timeout="30">
+            <Description>Builds the mesh</Description>
+        </Tool>
+        <Tool Filename="validator.exe" AllowRemote="false" Timeout="10">
+            <Description>Validates the output</Description>
+        </Tool>
+    </tools>
+    <bounds>0 0 1 1</bounds>
+</mesh>

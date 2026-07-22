@@ -1,0 +1,16 @@
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.mainForm.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMsgBox.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormChkRadioGroup.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmTextBox.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPractice.resources
+E:\general_courses\programming-advices\stage2\14_C#_L1\WFAs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmPictureBox.resources

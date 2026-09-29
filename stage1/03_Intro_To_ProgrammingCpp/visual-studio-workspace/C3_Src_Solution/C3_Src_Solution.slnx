@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/C3_Lessons_Src/">
+    <Project Path="c2_SomeProblemsSols2InCpp/c2_SomeProblemsSols2InCpp.vcxproj" Id="1b6200d0-32b7-4a40-abdd-98be9a813349" />
+    <Project Path="c2_SomeProblemsSolsInCpp/c2_SomeProblemsSolsInCpp/c2_SomeProblemsSolsInCpp.vcxproj" />
+    <Project Path="c3_hw_sols_main/c3_hw_sols_main/c3_hw_sols_main.vcxproj" Id="4848c208-cf16-4fa1-8424-e1b35d19134d" />
+    <Project Path="cmath_lib_funcs/cmath_lib_funcs.vcxproj" Id="80944655-b041-4387-ae2b-c6560b62ff3f" />
+    <Project Path="Loops/Loops.vcxproj" Id="7f299e7c-a2ae-4d89-b6fe-1586dbc99a60" />
+    <Project Path="Src_lessons16_17/Src_lessons16_17.vcxproj" Id="4c2eea58-4cf0-465b-9cd3-600bcfd3e277" />
+  </Folder>
+</Solution>
